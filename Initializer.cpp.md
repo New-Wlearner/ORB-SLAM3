@@ -2,9 +2,7 @@
 
 作者:Liam
 
-配图:
-
-![image.png](https://i.loli.net/2020/11/13/rsvYQixlp4d6Wef.png)
+博客:https://blog.csdn.net/qq_40114620/article/details/109799810#comments_13915791
 
 ### **构造函数**
 
